@@ -2,4 +2,8 @@ Esta es la historia de Jose Avila.
 
 Jose Avila tiene 29 años y nació en Guatemala.
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y trabajo.
+=======
+Mañana hablaremos de su vida laboral.
+>>>>>>> 121a90bad2a4f551e90d3f96d968b7844c7eb268
